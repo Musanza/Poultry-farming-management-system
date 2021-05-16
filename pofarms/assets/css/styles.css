@@ -1,0 +1,139 @@
+.navbar .navbar-brand img {
+	height: 30px;
+	margin-right: 5px;
+}
+
+.responsive-image {
+	width: 100%;
+}
+
+.developer img {
+	height: 150px;
+	width: 150px;
+	border-radius: 150px;
+}
+
+.developer .info ul li {
+	list-style: square;
+	margin-top: 10px;
+}
+.bg-image {
+	background: url('../img/poult.jpg');
+	background-position: center;
+	background-size: cover;
+}
+
+.divider {
+	border-right: 1px dashed #999;
+	height: inherit;
+	margin-left: 10px;
+}
+form a {
+	color: #333;
+	font-weight: bold;
+}
+
+form a:hover {
+	text-decoration: none;
+}
+
+.text-red {
+	color: red;
+}
+
+.navbar .fas {
+	margin-left: 3px;
+}
+
+.text-bold {
+	font-weight: bold;
+}
+
+.alert {
+	font-size: 12px;
+}
+
+.bg-gradient-black {
+	background-color: #000;
+}
+
+.bg-red {
+	background-color: red;
+	color: #fff;
+}
+
+.bg-red:hover {
+	background-color: #000;
+}
+
+.separator {
+	margin-top: 20px;
+}
+
+.sidebar li:hover, .sidebar .active {
+	background-color: green;
+}
+
+.sidebar-dark .navbar-nav .nav-item {
+	border-top: border-top: 1px solid rgba(255,255,255,.15);
+}
+
+.logo-header img {
+	height: 30px;
+}
+
+.logo-footer img {
+	height: 50px;
+	bottom: 0;
+}
+
+.toast {
+	margin: 5px;
+}
+
+.fa-bars {
+    color: #333;
+}
+
+table tbody tr td a {
+	color: #333;
+}
+
+table tbody tr td a:hover {
+	color: #333;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.footer {
+	background-color: #222;
+	color: #fff;
+	padding-top: 15px;
+}
+
+.footer ul li {
+	list-style: square;
+	border-bottom: dashed 1px #414344;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+
+.footer ul li a {
+	color: #fff;
+}
+
+.footer ul li a:hover {
+	color: #fff;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.footer .copyright {
+	background-color: #000;
+	text-align: center;
+	padding: 5px;
+}
+
+.separator {
+	margin: 50px;
+}
